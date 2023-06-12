@@ -7,3 +7,5 @@ hola escribir aca todo lo que te parezca:
 3. pruebas
 4. implementacion
 5. mantenimiento
+6. agregado de funciones
+7. pruebas a los agregados
